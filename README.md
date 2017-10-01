@@ -1,5 +1,12 @@
 # README
 
+
+## Live app
+
+View this app in action [here](https://shrouded-thicket-94713.herokuapp.com/)! Please allow ~30s for Heroku to spin up a dyno :)
+
+## TODO
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
